@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="MauiWind.app/MauiWind">
+      <BCSymbolMapName>MauiWind.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>MauiWind.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/gokcen/RiderProjects/NortWindBackEnd/MauiWind/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>MauiWind.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/gokcen/RiderProjects/NortWindBackEnd/MauiWind</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
